@@ -1,0 +1,50 @@
+/* Aaqib Tariq CSS document*/
+
+
+
+body {
+    background: white;
+    color: brown;
+}
+
+p {
+color:aqua;
+text-align:left;
+font-family:"Times New Roman";
+font-size:20px;
+}
+
+
+a:link, a:visited, a:active {
+color: blueviolet;
+}
+
+a:hover {
+font-size:150%;
+background: green;
+font-family:monospace;
+color: yellow;
+text-decoration:none;
+}
+
+.caution {
+font-size:100%;
+color: green
+}
+
+table {
+    background: black;
+    color: white;
+}
+
+ul {
+
+    color: black
+}
+
+li {
+font-size: 16pt;
+border: solid;
+border-width: thin;
+}
+
